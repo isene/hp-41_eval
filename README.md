@@ -11,7 +11,7 @@ Finally, you sum up all the weighted scores, divide by the sum of the item weigh
 
 The formula for the total percent score is:
 
-![alt text](http://dl.dropbox.com/u/73825672/Graphics/eval.png "Calculating weighted averages")
+![alt text](graphics/eval.png?raw=true "Calculating weighted averages")
 
 "T%" is the total percentage score, "w" is the weight, "v" is the score (value) of an item, v(max) is the maximum score possible.
 
