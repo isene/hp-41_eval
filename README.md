@@ -1,5 +1,5 @@
 # hp-41_eval
-## HP-41: Simplifies the evaluation of cases against a requirement specification
+## HP-41: EVAL simplifies the evaluation of cases against a requirement specification
 
 A requirement specification consists of a set of requirements or "items". Each item is given a certain importance or "weight".
 
