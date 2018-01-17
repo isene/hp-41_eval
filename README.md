@@ -1,6 +1,8 @@
 # hp-41_eval
 ## HP-41: EVAL simplifies the evaluation of cases against a requirement specification
 
+**NOTE:** This program is part of the ISENE.ROM (https://github.com/isene/hp-41_isene-rom). The FOCAL listing can be found in the "src" folder of that project. Any updates and new version will be found there.
+
 A requirement specification consists of a set of requirements or "items". Each item is given a certain importance or "weight".
 
 A requirement specification could be used to decide what piece of production equipment to buy, for choosing a new house or for choosing a new employee. If you are to choose a new employee, the specification would consist of items such as "relevant knowledge", "relevant job experience", "proven production record", "communication skills" or "empathy". You would give each item a certain weight where "relevant knowledge" could be given a weight of "4" while "empathy" for this specific job could be given "2" in weight. It doesn’t matter what minimum or maximum you choose for you "weight" scale, only the relative weight scores matters – like "relevant knowledge" being twice as important as "empathy" (their weight scores might as well have been "30" and "15").
