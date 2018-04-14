@@ -47,3 +47,6 @@ LBL B (L)	|List all the scores for each item for the current case. You may proce
 LBL C (W\*V)	|Calculate the total percentage score for the current case against the current requirement specification.
 LBL D (^)	|Move back up to working with the project file (takes you to the project menu).
 LBL E (\*)	|Go back to the case menu.
+
+## License
+This software is released into the Public Domain.
